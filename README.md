@@ -18,4 +18,8 @@ Secondary KPI's - Total Casualties with respect to vehicle type
 
 → Relation between Casualties by Area/ Location & by Day/Night
 
-![image](https://github.com/rajvimevada/Road-Accident-Data-Dashboard/assets/110738846/c628e138-5b12-41a6-a91e-5ce7afbdb387)
+
+![Screenshot 2023-06-16 115532](https://github.com/rajvimevada/Road-Accident-Data-Dashboard-with-Excel/assets/110738846/f5304b39-9c6b-4e03-9230-85a0829c9626)
+
+
+
